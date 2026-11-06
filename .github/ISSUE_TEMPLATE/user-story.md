@@ -1,4 +1,3 @@
-
 ---
 name: User Story
 about: Create a user story for the product catalog
